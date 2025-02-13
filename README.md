@@ -38,6 +38,19 @@ Errors are handled thoroughly with helpful messages and pop-ups where applicable
 - **In IDE (IntelliJ IDEA):**
   1. Make sure to add the **`org.json`** library from the `/libs` folder to your project.
   2. In the IDE, run the `IMDB` class as a Java application.
+#### **Example Accounts**
+
+**Regular User:**
+- **Email:** susan.smith@example.com
+- **Password:** R8F!b&e9m3U6
+
+**Contributor:**
+- **Email:** emily.wilson@example.com
+- **Password:** P@ssw0rd!23
+
+**Admin:**
+- **Email:** steven.jackson@example.com
+- **Password:** St3v3n!#42J@cks0n
 
 
 ### **Known Issues**
